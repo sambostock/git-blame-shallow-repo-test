@@ -15,3 +15,4 @@ Seeing what happens when `git blame` is run on a repo checked out with shallow `
 - change 13
 - change 14
 - change 15
+- change 16
