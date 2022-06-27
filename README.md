@@ -3,3 +3,4 @@ Seeing what happens when `git blame` is run on a repo checked out with shallow `
 - change 1
 - change 2
 - change 3
+- change 4
