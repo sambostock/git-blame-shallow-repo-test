@@ -22,3 +22,4 @@ Seeing what happens when `git blame` is run on a repo checked out with shallow `
 - change 20
 - change 21
 - change 22
+- change 23
