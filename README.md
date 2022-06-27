@@ -40,3 +40,4 @@ Seeing what happens when `git blame` is run on a repo checked out with shallow `
 - change 38
 - change 39
 - change 40
+- change 41
